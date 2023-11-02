@@ -1,0 +1,24 @@
+C:\Users\HP\source\repos\AJOO SCHEME\AjooScheme.Domain\bin\Debug\net6.0\AjooScheme.Domain.deps.json
+C:\Users\HP\source\repos\AJOO SCHEME\AjooScheme.Domain\bin\Debug\net6.0\AjooScheme.Domain.dll
+C:\Users\HP\source\repos\AJOO SCHEME\AjooScheme.Domain\bin\Debug\net6.0\AjooScheme.Domain.pdb
+C:\Users\HP\source\repos\AJOO SCHEME\AjooScheme.Domain\obj\Debug\net6.0\AjooScheme.Domain.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\AJOO SCHEME\AjooScheme.Domain\obj\Debug\net6.0\AjooScheme.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\AJOO SCHEME\AjooScheme.Domain\obj\Debug\net6.0\AjooScheme.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\AJOO SCHEME\AjooScheme.Domain\obj\Debug\net6.0\AjooScheme.Domain.AssemblyInfo.cs
+C:\Users\HP\source\repos\AJOO SCHEME\AjooScheme.Domain\obj\Debug\net6.0\AjooScheme.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\AJOO SCHEME\AjooScheme.Domain\obj\Debug\net6.0\AjooScheme.Domain.dll
+C:\Users\HP\source\repos\AJOO SCHEME\AjooScheme.Domain\obj\Debug\net6.0\refint\AjooScheme.Domain.dll
+C:\Users\HP\source\repos\AJOO SCHEME\AjooScheme.Domain\obj\Debug\net6.0\AjooScheme.Domain.pdb
+C:\Users\HP\source\repos\AJOO SCHEME\AjooScheme.Domain\obj\Debug\net6.0\ref\AjooScheme.Domain.dll
+C:\Users\Admin\source\repos\AjooScheme\AjooScheme.Domain\bin\Debug\net6.0\AjooScheme.Domain.deps.json
+C:\Users\Admin\source\repos\AjooScheme\AjooScheme.Domain\bin\Debug\net6.0\AjooScheme.Domain.dll
+C:\Users\Admin\source\repos\AjooScheme\AjooScheme.Domain\bin\Debug\net6.0\AjooScheme.Domain.pdb
+C:\Users\Admin\source\repos\AjooScheme\AjooScheme.Domain\obj\Debug\net6.0\AjooScheme.Domain.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\AjooScheme\AjooScheme.Domain\obj\Debug\net6.0\AjooScheme.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\AjooScheme\AjooScheme.Domain\obj\Debug\net6.0\AjooScheme.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\AjooScheme\AjooScheme.Domain\obj\Debug\net6.0\AjooScheme.Domain.AssemblyInfo.cs
+C:\Users\Admin\source\repos\AjooScheme\AjooScheme.Domain\obj\Debug\net6.0\AjooScheme.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AjooScheme\AjooScheme.Domain\obj\Debug\net6.0\AjooScheme.Domain.dll
+C:\Users\Admin\source\repos\AjooScheme\AjooScheme.Domain\obj\Debug\net6.0\refint\AjooScheme.Domain.dll
+C:\Users\Admin\source\repos\AjooScheme\AjooScheme.Domain\obj\Debug\net6.0\AjooScheme.Domain.pdb
+C:\Users\Admin\source\repos\AjooScheme\AjooScheme.Domain\obj\Debug\net6.0\ref\AjooScheme.Domain.dll
